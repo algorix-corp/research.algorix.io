@@ -1,10 +1,6 @@
 ---
 title: Algorix Convergence Research Office
 feature_image: "./acro-landing.png"
-feature_text: |
-  ## Welcome to ACRO
-  Algorix Convergence Research Office
-
 ---
 
-There isn't much going on here yet, but watch this space
+Algorix LLC's Research Office **ACRO** supports Algorix members and external independent researchers. We focus on IT convergence technologies and research many areas of computational science, including software engineering, cloud infrastructure, and algorithms.
