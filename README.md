@@ -1,2 +1,1 @@
-# research.algorix.io
-Algorix Convergence Research Office
+# Algorix Convergence Research Office
