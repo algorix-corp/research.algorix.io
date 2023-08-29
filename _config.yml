@@ -1,3 +1,18 @@
 remote_theme: daviddarnes/alembic@main
+
 plugins:
 - jekyll-remote-theme
+
+navigation_header:
+- title: Home
+  url: /
+- title: Members
+  url: /members/
+- title: Researches
+  url: /researches/
+- title: Publications
+  url: /publications/
+
+# navigation_footer:
+# - title: Back to top
+#   url: "#top"
